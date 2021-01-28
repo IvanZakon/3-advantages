@@ -1,0 +1,21 @@
+<div class="znachk-bl">
+  <div class="col-12 col-md-4 col-sm-4">
+    <div class="first-tag"><span class="topzagltopzagl">Уверенность в выборе</span></div>
+    <div class="img-place-svg-time"><img src="/img/shield.svg" class="catimg1"></div>
+    <div class="anonce-tagcont">Можно с разных ракурсов рассмотреть оригинальные образцы, сделать
+    правильный и утвердительный выбор</div>
+    </div>
+  <div class="col-12 col-md-4 col-sm-4">
+    <div class="twoo-tag"><span class="topzagltopzagl">Экономия времени</span></div>
+    <div class="img-place-svg-time"><img src="/img/clock.svg" class="catimg1"></div>
+    <div class="anonce-tagcont">Можно не посещать магазин, ознакомится с материалом удаленно и значительно
+    сэкономить время</div>
+    </div>
+  <div class="col-12 col-md-4 col-sm-4">
+    <div class="three-tag"><span class="topzagltopzagl">Безопасность и удобство</span></div>
+    <div class="img-place-svg-time"><img src="/img/verified.svg" class="catimg1"></div>
+    <div class="anonce-tagcont">Вам не придётся перемещаться по городу, тем самым оградите себя от нежелательных
+    контактов</div>
+   </div>
+  </div>
+</div>
